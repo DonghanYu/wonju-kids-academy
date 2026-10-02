@@ -1,0 +1,57 @@
+name: 데이터 갱신 및 배포
+
+on:
+  schedule:
+    - cron: "10 18 * * 0"   # 매주 월요일 03:10 KST (교육청 데이터 주간 갱신에 맞춤)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["web/**", "pipeline/**", "data/raw/**", ".github/workflows/refresh.yml"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: 테스트
+        run: |
+          pip install pytest
+          python -m pytest -q
+      - name: 데이터 수집·분석
+        env:
+          NEIS_API_KEY: ${{ secrets.NEIS_API_KEY }}
+          DOJO_CSV_URL: ${{ vars.DOJO_CSV_URL }}   # 선택: 체육도장업 CSV 직접 다운로드 주소
+        run: python -m pipeline.build --out web/data/academies.json
+      - name: 데이터 커밋
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add web/data/academies.json
+          git diff --cached --quiet || git commit -m "data: 주간 갱신 $(date +%F)"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
