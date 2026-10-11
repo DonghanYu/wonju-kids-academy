@@ -1,11 +1,11 @@
 {
  "meta": {
-  "generatedAt": "2026-10-05T06:19+09:00",
+  "generatedAt": "2026-10-12T06:53+09:00",
   "region": "강원특별자치도 원주시",
-  "count": 419,
+  "count": 551,
   "counts": {
    "academy": 419,
-   "dojo": 0
+   "dojo": 132
   },
   "sources": [
    "교육청 학원교습소정보(NEIS)",
@@ -1575,6 +1575,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022019000005",
+   "name": "슈퍼키즈태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "전문",
+   "address": "강원특별자치도 원주시 지정면 신지정로 322-1, 센텀뷰상가 3층 310,311호",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -3496,6 +3523,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022015000004",
+   "name": "KBI원주복싱짐",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 행구로 3, 3층 (개운동)",
+   "dong": "개운동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000011735",
    "name": "MK피아노교습소",
    "kind": "교습소",
@@ -3550,6 +3604,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022020000002",
+   "name": "MTA베스트태권도",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 신지정로 266, 드림시티 606동 6층",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-9323",
    "name": "NewPercussion타악기음악학원",
    "kind": "학원",
@@ -3570,6 +3651,60 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022025000001",
+   "name": "ROAD FC 이동현GYM",
+   "kind": "체육도장",
+   "realm": "유도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 혁신로 39, 2층 201호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022026000005",
+   "name": "S BOXING GYM",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 흥양로51번길 15, 2층 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -3606,6 +3741,87 @@
    }
   },
   {
+   "id": "d-CDFH3301022025000003",
+   "name": "S복싱클럽",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 능라동길 75, 402,403호 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022004000011",
+   "name": "THE 힘찬태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 단관초교길 22-3 (관설동)",
+   "dong": "관설동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022021000004",
+   "name": "Team, 블랙벨트 태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 금불2길 23, 2층 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-6539",
    "name": "VCCF관현악전문음악학원",
    "kind": "학원",
@@ -3626,6 +3842,60 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022025000004",
+   "name": "WJ스포츠클럽",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 반곡초교로 77-2, 302호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022024000005",
+   "name": "WJ태권도스포츠클럽",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 반곡초교로 77-2, 3층 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -3726,6 +3996,222 @@
    }
   },
   {
+   "id": "d-CDFH3301022006000004",
+   "name": "강산태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 현충로58번길 28, 5층 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022020000017",
+   "name": "강산합기도",
+   "kind": "체육도장",
+   "realm": "합기도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 서원대로 396, 스타월드 4층 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022002000002",
+   "name": "강호태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 남산로 80-3, 2층 (일산동)",
+   "dong": "일산동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022009000010",
+   "name": "건호태권도교육관",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 만대로 89 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022017000001",
+   "name": "경희대 성훈태권도 1관",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 늘품로 45 (단구동)",
+   "dong": "단구동",
+   "tel": "0337666700",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022012000002",
+   "name": "경희대 효도태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 금불1길 72-6 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021991000004",
+   "name": "경희대성훈태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 원문로 162-2 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022019000004",
+   "name": "경희대태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 신지정로 265, 201~204호 (원주 호반베르디움 3차)",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013379",
    "name": "경희엘피아노교습소",
    "kind": "교습소",
@@ -3746,6 +4232,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022003000004",
+   "name": "경희태권도체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 남산로 87 (일산동)",
+   "dong": "일산동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -3823,6 +4336,33 @@
     ]
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022010000007",
+   "name": "고려대단관태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 단관길 177-13 (관설동)",
+   "dong": "관설동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -4093,6 +4633,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022024000002",
+   "name": "국가대표문광태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 배울로 154 (반곡동, 제일풍경채 센텀포레아파트)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000020443",
    "name": "국가문화유산교육학원ODAT",
    "kind": "학원",
@@ -4349,6 +4916,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022017000003",
+   "name": "김민제태권스쿨",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 백간길 25 (단계동)",
+   "dong": "단계동",
+   "tel": "0337339054",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000014193",
    "name": "김쌤화실미술학원",
    "kind": "학원",
@@ -4594,6 +5188,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022009000012",
+   "name": "나라찬 태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 오리현길 57, 3층 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -4929,6 +5550,33 @@
     ]
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022009000002",
+   "name": "다온태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 향교길 58 (명륜동)",
+   "dong": "명륜동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -5340,6 +5988,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022020000006",
+   "name": "동명합기도",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 신지정로 266, 5층 501~502호",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000012018",
    "name": "동아방송실용음악학원",
    "kind": "학원",
@@ -5367,12 +6042,39 @@
    }
   },
   {
+   "id": "d-CDFH3301022013000001",
+   "name": "동양체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 포란재로 28 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-1000002832",
    "name": "동화나라피아노학원",
    "kind": "학원",
    "realm": "예능(대)",
    "courses": [
-    "음악,"
+    "음악"
    ],
    "fields": [
     "음악"
@@ -5387,6 +6089,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022017000005",
+   "name": "동화태권도장아카데미",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 문막읍 왕건로 75, 문막현진아파트 3층 301호",
+   "dong": "문막읍",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -5618,6 +6347,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022003000005",
+   "name": "라온태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 치악로 2031-1, 동보렉스아파트B상가 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013579",
    "name": "라온피아노교습소",
    "kind": "교습소",
@@ -5797,6 +6553,60 @@
    }
   },
   {
+   "id": "d-CDFH3301022016000003",
+   "name": "락복싱클럽",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 무실로 195, 2층 (명륜동)",
+   "dong": "명륜동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022020000015",
+   "name": "랩터스마샬아츠아카데미",
+   "kind": "체육도장",
+   "realm": "합기도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 평원초교길 10, 2층 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-10324",
    "name": "레이백실용음악학원",
    "kind": "학원",
@@ -5896,6 +6706,60 @@
     ]
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022024000006",
+   "name": "로드FC 유재남GYM",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 치악로 2025, 3층 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022019000002",
+   "name": "로드짐 휘트니스",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 늘품로 187-58, 현대아카데미프라자 6층 (단구동)",
+   "dong": "단구동",
+   "tel": "0337459679",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -6146,6 +7010,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022019000006",
+   "name": "마루한태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 행구로 24, 2층 (개운동)",
+   "dong": "개운동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000020394",
    "name": "마리발레학원",
    "kind": "학원",
@@ -6166,6 +7057,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022015000005",
+   "name": "명류검도장",
+   "kind": "체육도장",
+   "realm": "검도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 혁신로 53 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -6296,6 +7214,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022003000001",
+   "name": "무궁화1체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 문막읍 건등로 20",
+   "dong": "문막읍",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-1000002833",
    "name": "무실EnP음악학원",
    "kind": "학원",
@@ -6316,6 +7261,60 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022024000010",
+   "name": "무실태권도 & 줄넘기",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 시청로 74, 에이스타워 2층 203호 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022016000004",
+   "name": "문막 검도장",
+   "kind": "체육도장",
+   "realm": "검도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 문막읍 문막골말길 7",
+   "dong": "문막읍",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -6466,6 +7465,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022021000005",
+   "name": "미션태권도 & 파다주짓수 원주점",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 예술관길 30-1 (명륜동)",
+   "dong": "명륜동",
+   "tel": "0337668296",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013529",
    "name": "미술로크는아이들학원",
    "kind": "학원",
@@ -6486,6 +7512,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022019000001",
+   "name": "바른태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 솔우물1길 1-1, 1동 2층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -6598,6 +7651,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022016000007",
+   "name": "박종훈유도스쿨",
+   "kind": "체육도장",
+   "realm": "유도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 문막읍 건등로 34",
+   "dong": "문막읍",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -6739,6 +7819,60 @@
    }
   },
   {
+   "id": "d-CDFH3301022008000007",
+   "name": "반곡태권도체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 오리현길 71 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022020000011",
+   "name": "배가짐",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 봉화서부로 6, 3층 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013654",
    "name": "백암서예학원",
    "kind": "학원",
@@ -6844,6 +7978,60 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022026000006",
+   "name": "범프복싱",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 모란1길 70, 수정프라자 3층 303호 (우산동)",
+   "dong": "우산동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022025000006",
+   "name": "별하랑태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 영랑길 14-5, 3층 (행구동)",
+   "dong": "행구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -6961,6 +8149,114 @@
    }
   },
   {
+   "id": "d-CDFH3301022020000003",
+   "name": "블랙벨트센터 기업 태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 신지정로 316-1, 골드파크 5층 501~504호",
+   "dong": "지정면",
+   "tel": "0337478484",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022015000007",
+   "name": "블랙벨트센터 단구태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 남원로 528-21 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022017000004",
+   "name": "블랙벨트센터 태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 오리현길 20-1 (반곡동)",
+   "dong": "반곡동",
+   "tel": "0337638484",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022009000007",
+   "name": "블랙벨트태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 단구로 412 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000012525",
    "name": "블랙플댄스스포츠학원",
    "kind": "학원",
@@ -6990,6 +8286,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022026000004",
+   "name": "블랭크복싱",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 양지로 16, 3층 301호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000016382",
    "name": "블리스댄스스튜디오학원",
    "kind": "학원",
@@ -7010,6 +8333,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022024000011",
+   "name": "블리스원특수체육센터",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 황금로 20, 2층 3,4호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -7208,6 +8558,87 @@
    }
   },
   {
+   "id": "d-CDFH3301022022000006",
+   "name": "빛솔 태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 금불1길 78, 2, 3층 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022002000004",
+   "name": "산성체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 단관초교길 22-11 (관설동)",
+   "dong": "관설동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021989000002",
+   "name": "상무태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 늘품로 197-1, 현대프라자 4층 402호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000011083",
    "name": "상산학원",
    "kind": "학원",
@@ -7291,6 +8722,60 @@
     ]
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022003000003",
+   "name": "상지대태권도아카데미",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 늘품로 43, 2층 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022009000014",
+   "name": "상지대효태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 원문로100번길 35, 3,4층 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -7477,6 +8962,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022004000003",
+   "name": "성원체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 흥양로51번길 11 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-10339",
    "name": "성원클래식음악학원",
    "kind": "학원",
@@ -7497,6 +9009,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022021000002",
+   "name": "성인 태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 능라동길 34-1, 3층 301호 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -7551,6 +9090,33 @@
     ]
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022006000007",
+   "name": "세종태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 현충로58번길 23, 흥화브라운빌아파트 2층 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -8218,6 +9784,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022004000010",
+   "name": "솔향태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 남원로 441-15, 현진에버빌3차 (명륜동)",
+   "dong": "명륜동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000011776",
    "name": "쇼팽피아노교습소",
    "kind": "교습소",
@@ -8297,9 +9890,11 @@
    "name": "스위트셔플스튜디오학원",
    "kind": "학원",
    "realm": "기예(대)",
-   "courses": [],
+   "courses": [
+    "댄스"
+   ],
    "fields": [
-    "기타"
+    "체육"
    ],
    "preschool": "가능",
    "address": "강원특별자치도 원주시 치악로 1497 , 2층(관설동)",
@@ -8498,6 +10093,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022011000003",
+   "name": "아라한태권도체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 남산로9번길 26 (명륜동)",
+   "dong": "명륜동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -8844,6 +10466,87 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022025000002",
+   "name": "아이원",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 신지정로 255, 상가동 1층 104,105호 (이지더원 더 그레이스 아파트)",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022020000009",
+   "name": "아이원 태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 신지정로 255, 이지더원 2차 상가 2층",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022022000002",
+   "name": "아이탑 태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 한지공원길 120, 2층 201, 202호 (무실동, 더샵원주센트럴파크1단지)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -9419,6 +11122,60 @@
    }
   },
   {
+   "id": "d-CDFH3301022019000003",
+   "name": "언노운복싱짐",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 나비허리길 169, 5층 (관설동)",
+   "dong": "관설동",
+   "tel": "0337344861",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022025000005",
+   "name": "언노운복싱짐Re:2",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 늘품로 187-66, 2층 (개운동)",
+   "dong": "개운동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000016342",
    "name": "엄마나랑놀자미술교습소",
    "kind": "교습소",
@@ -9648,6 +11405,60 @@
    }
   },
   {
+   "id": "d-CDFH3301022023000001",
+   "name": "에스복싱짐",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 무릉로 39, 2층 205호",
+   "dong": "지정면",
+   "tel": "0337318161",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022017000006",
+   "name": "에스복싱클럽",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 건강로 25, 6층 601호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000020556",
    "name": "엔사이트어학원기업도시점",
    "kind": "학원",
@@ -9823,6 +11634,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022010000004",
+   "name": "연세태권도체육관",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 시청로 90-1, 뜨란채아파트 상가 201, 202,, 203호 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013360",
    "name": "영렘브란트미술학원",
    "kind": "학원",
@@ -9841,6 +11679,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022015000002",
+   "name": "영웅태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 단구초교길 19, 상가동 2층 (단구동, 대흥아파트)",
+   "dong": "단구동",
+   "tel": "0337656139",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -10047,6 +11912,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022001000004",
+   "name": "예인체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 치악로 1621 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013325",
    "name": "오늘그림미술학원",
    "kind": "학원",
@@ -10067,6 +11959,60 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022026000002",
+   "name": "오리진 태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지니기길 32, 2, 3층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022020000008",
+   "name": "온폼합기도",
+   "kind": "체육도장",
+   "realm": "합기도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 섬밭들1길 12-6 (무실동)",
+   "dong": "무실동",
+   "tel": "0337438574",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -10252,6 +12198,249 @@
    }
   },
   {
+   "id": "d-CDFH3301022012000007",
+   "name": "용인대 TM 태권도",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 봉바위길 74, 1층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022008000001",
+   "name": "용인대 미르 태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 배울로 49, 상가동 201호 (반곡동, 부영사랑으로 1단지 아파트)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022024000007",
+   "name": "용인대 샘마루 유도관(본점)",
+   "kind": "체육도장",
+   "realm": "유도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 조엄로 96, 1층",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022000000003",
+   "name": "용인대 한라 태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 문막읍 왕건로 80-1",
+   "dong": "문막읍",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022018000003",
+   "name": "용인대 효 섬강태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 가곡로 70-1, 2층",
+   "dong": "지정면",
+   "tel": "0337475006",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021994000006",
+   "name": "용인대구룡태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 흥양로51번길 28-3 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022024000001",
+   "name": "용인대금빛풍경채태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 배울로 154, 210.211.212호 (반곡동, 제일풍경채 센텀포레아파트)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022020000005",
+   "name": "용인대서원태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 신지정로 322, 탑프라자 5층 505~508호",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022026000007",
+   "name": "용인대원주유도스쿨",
+   "kind": "체육도장",
+   "realm": "유도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 혁신로 35, 304호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000011592",
    "name": "우리춤&전재흥발레학원",
    "kind": "학원",
@@ -10299,6 +12488,60 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022015000009",
+   "name": "우석유도체육관",
+   "kind": "체육도장",
+   "realm": "유도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 우산공단길 24, 원주근로자종합복지관 (우산동)",
+   "dong": "우산동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022022000005",
+   "name": "우슈태극권수련관",
+   "kind": "체육도장",
+   "realm": "우슈",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 송림길 50, 2층 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -10424,6 +12667,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022026000003",
+   "name": "원주레슬링센터",
+   "kind": "체육도장",
+   "realm": "레슬링",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 남원로 528-13, 501호 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013517",
    "name": "원주무실자라다남아미술학원",
    "kind": "학원",
@@ -10471,6 +12741,168 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022022000004",
+   "name": "원주유도스쿨",
+   "kind": "체육도장",
+   "realm": "유도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 단관길 106, 2층 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021987000001",
+   "name": "원주태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 입춘로 110, 6층 601,602,603호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022024000008",
+   "name": "원투복싱 무실2관 & 점프윙스줄넘기클럽",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지니기길 82 (무실동)",
+   "dong": "무실동",
+   "tel": "0337632252",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022021000001",
+   "name": "원투복싱클럽 기업점",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 신지정로 322-1, 6층 608, 609호",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022023000003",
+   "name": "원투복싱클럽 단계점",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 금불2길 23, 3층 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022015000001",
+   "name": "원투복싱클럽(무실점)",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 시청로 80, 쎈터프라자 9층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -10571,6 +13003,33 @@
     ]
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022012000001",
+   "name": "윤슬태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 진광길 26, 2층 (우산동)",
+   "dong": "우산동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -10865,6 +13324,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022021000003",
+   "name": "이루다 태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 남원로469번길 25-8, 1층 (명륜동)",
+   "dong": "명륜동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -11622,6 +14108,33 @@
    }
   },
   {
+   "id": "d-CDFH3301021995000003",
+   "name": "전동블랙벨트태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 흥업면 흥업텃둔길 4",
+   "dong": "흥업면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013747",
    "name": "전쌤HSK중국어교습소",
    "kind": "교습소",
@@ -11686,6 +14199,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022013000006",
+   "name": "정연검도장",
+   "kind": "체육도장",
+   "realm": "검도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 치악로 1535 (관설동)",
+   "dong": "관설동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -11835,6 +14375,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022020000014",
+   "name": "제이와이합기도",
+   "kind": "체육도장",
+   "realm": "합기도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 남산로 80, 극동빌딩 4층 (일산동)",
+   "dong": "일산동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -12194,6 +14761,33 @@
    }
   },
   {
+   "id": "d-CDFH3301021995000005",
+   "name": "중앙검도장",
+   "kind": "체육도장",
+   "realm": "검도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 치악로 1803, 남부시장 2층 (명륜동)",
+   "dong": "명륜동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013912",
    "name": "중앙댄스스포츠학원",
    "kind": "학원",
@@ -12349,6 +14943,33 @@
    }
   },
   {
+   "id": "d-CDFH3301021995000002",
+   "name": "지킴이태권도체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 단관길 195 (관설동)",
+   "dong": "관설동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000018492",
    "name": "진샘아트미술교습소",
    "kind": "교습소",
@@ -12415,6 +15036,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022012000003",
+   "name": "차오름태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 오리현길 54 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -12623,6 +15271,87 @@
    }
   },
   {
+   "id": "d-CDFH3301022017000007",
+   "name": "천후검도장",
+   "kind": "체육도장",
+   "realm": "검도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 우산공단길 24, 원주근로자종합복지관 (우산동)",
+   "dong": "우산동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022013000003",
+   "name": "청담유도관",
+   "kind": "체육도장",
+   "realm": "유도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 평원초교길 10 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022024000003",
+   "name": "청담유도관 기업도시점",
+   "kind": "체육도장",
+   "realm": "유도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 무릉로 15, 6층",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000020503",
    "name": "청하해금음악교습소",
    "kind": "교습소",
@@ -12731,6 +15460,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022013000005",
+   "name": "치악복싱체육관",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 원문로100번길 35 (단계동)",
+   "dong": "단계동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000012647",
    "name": "코딩클라우드혁신영어학원",
    "kind": "학원",
@@ -12751,6 +15507,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022008000003",
+   "name": "코리아탑태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 서원대로 415-22, 2층 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -12986,6 +15769,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022004000007",
+   "name": "키움태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 흥양로51번길 101 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000016599",
    "name": "킴스기타&베이스학원",
    "kind": "학원",
@@ -13069,6 +15879,196 @@
    }
   },
   {
+   "id": "d-CDFH3301022016000002",
+   "name": "탑 영어 태권도",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육",
+    "영어"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 입춘로 73, 303호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022023000004",
+   "name": "태광 유도관 혁신관",
+   "kind": "체육도장",
+   "realm": "유도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 입춘로 73, 2층 203호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021998000001",
+   "name": "태광체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 반곡초교로 77-2, 3층 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021994000002",
+   "name": "태권도한아름체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 송림길 58-12, 1층 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022025000008",
+   "name": "태권소울태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 마재4로 63, 2층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022025000007",
+   "name": "태온",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 봉바위길 60, 1층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021995000006",
+   "name": "태온태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 봉바위길 64-1, 1층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-9462",
    "name": "태장위드기타교습소",
    "kind": "교습소",
@@ -13089,6 +16089,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022023000002",
+   "name": "태장청학복싱&무에타이",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 흥양로51번길 9, 2층 (태장동)",
+   "dong": "태장동",
+   "tel": "0337480065",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -13174,6 +16201,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022026000001",
+   "name": "팀더블유복싱핏",
+   "kind": "체육도장",
+   "realm": "권투",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 반곡초교로 77-3, 501호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -13888,6 +16942,33 @@
    }
   },
   {
+   "id": "d-CDFH3301022024000004",
+   "name": "피에스티 태권도아카데미",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 반곡초교로 77-2, 3층 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-10236",
    "name": "피움피아노음악학원",
    "kind": "학원",
@@ -13937,6 +17018,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022002000001",
+   "name": "하나리더태권&파워점핑줄넘기클럽",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 구곡길 2-42, 1층 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -14058,6 +17166,114 @@
    }
   },
   {
+   "id": "d-CDFH3301022026000008",
+   "name": "한국 태권도 솔샘관",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 무실로 415, 3층 (무실동, 세영리첼2차아파트)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022010000009",
+   "name": "한국태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 행구로 84 (봉산동)",
+   "dong": "봉산동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022020000004",
+   "name": "한성태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 문막읍 건등로 36, 2층",
+   "dong": "문막읍",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021991000002",
+   "name": "한솔태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 현충로 282 (태장동)",
+   "dong": "태장동",
+   "tel": "0337480342",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013459",
    "name": "한양피아노음악학원",
    "kind": "학원",
@@ -14107,6 +17323,87 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022022000003",
+   "name": "합기도 우리도장",
+   "kind": "체육도장",
+   "realm": "합기도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 구곡길 2-25, 극동빌딩 1층 103호 (단구동)",
+   "dong": "단구동",
+   "tel": "0337632508",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022010000002",
+   "name": "해찬솔태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 모란1길 70, 수정프라자 2층 205호 (우산동)",
+   "dong": "우산동",
+   "tel": "0337314492",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022009000008",
+   "name": "해피아이 태권도",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 양지로 70, 6층 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -14209,6 +17506,87 @@
     ]
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022012000005",
+   "name": "호돌이태권도체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 봉황2길 15 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022020000001",
+   "name": "호연지기 검도교실",
+   "kind": "체육도장",
+   "realm": "검도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 현충로58번길 14, 2층 (태장동)",
+   "dong": "태장동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022003000008",
+   "name": "호월검도관",
+   "kind": "체육도장",
+   "realm": "검도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 시청로 94, 보네르 빌딩 4층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
@@ -14333,6 +17711,168 @@
    }
   },
   {
+   "id": "d-CDFH3301021996000001",
+   "name": "효성제1체육관",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 남원로 492-1, 현대아파트 상가 302.303.304호 (단구동)",
+   "dong": "단구동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021998000002",
+   "name": "효성태권도",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 섬밭들1길 10-1 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022015000012",
+   "name": "효성태권도스포츠클럽",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 양지로 160-2, 상가동  2층 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022023000006",
+   "name": "휘성스포츠센터",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 솔우물2길 21-1, 3층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301021994000003",
+   "name": "휘성태권도 미래관 도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 서원대로 391 (개운동)",
+   "dong": "개운동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022015000008",
+   "name": "휘성태권도장",
+   "kind": "체육도장",
+   "realm": "태권도",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 솔우물2길 21-1, 2층 (무실동)",
+   "dong": "무실동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000016595",
    "name": "히비스(HIBIS)실용댄스학원",
    "kind": "학원",
@@ -14353,6 +17893,33 @@
     "items": []
    },
    "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
+   "id": "d-CDFH3301022006000008",
+   "name": "히어로태권도장",
+   "kind": "체육도장",
+   "realm": "체육도장업",
+   "courses": [],
+   "fields": [
+    "체육"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 혁신로 55, 2층 201, 202호 (반곡동)",
+   "dong": "반곡동",
+   "tel": "",
+   "capacity": null,
+   "fee": {
+    "public": false,
+    "items": []
+   },
+   "source": "행정안전부 체육도장업 인허가",
    "consult": {
     "hours": "",
     "kakao": "",
