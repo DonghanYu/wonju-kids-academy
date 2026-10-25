@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generatedAt": "2026-10-19T05:36+09:00",
+  "generatedAt": "2026-10-26T05:46+09:00",
   "region": "강원특별자치도 원주시",
-  "count": 551,
+  "count": 550,
   "counts": {
-   "academy": 419,
+   "academy": 418,
    "dojo": 132
   },
   "sources": [
@@ -1298,9 +1298,7 @@
    "name": "북경중국어학원",
    "kind": "학원",
    "realm": "국제화",
-   "courses": [
-    "실용외국어(유아/초·중·고)"
-   ],
+   "courses": [],
    "fields": [
     "학습",
     "영어"
@@ -15478,35 +15476,6 @@
     "items": []
    },
    "source": "행정안전부 체육도장업 인허가",
-   "consult": {
-    "hours": "",
-    "kakao": "",
-    "naverTalk": "",
-    "homepage": "",
-    "checked": ""
-   }
-  },
-  {
-   "id": "n-3000012647",
-   "name": "코딩클라우드혁신영어학원",
-   "kind": "학원",
-   "realm": "기타(대)",
-   "courses": [
-    "기타(소)"
-   ],
-   "fields": [
-    "영어"
-   ],
-   "preschool": "가능",
-   "address": "강원특별자치도 원주시 입춘로 110 308호(반곡동)",
-   "dong": "반곡동",
-   "tel": "033-746-0555",
-   "capacity": 64,
-   "fee": {
-    "public": true,
-    "items": []
-   },
-   "source": "교육청 학원교습소정보",
    "consult": {
     "hours": "",
     "kakao": "",
