@@ -1,10 +1,10 @@
 {
  "meta": {
-  "generatedAt": "2026-11-16T07:45+09:00",
+  "generatedAt": "2026-11-23T08:34+09:00",
   "region": "강원특별자치도 원주시",
-  "count": 551,
+  "count": 550,
   "counts": {
-   "academy": 419,
+   "academy": 418,
    "dojo": 132
   },
   "sources": [
@@ -1785,35 +1785,6 @@
    }
   },
   {
-   "id": "n-3000013540",
-   "name": "쎈수학지앤비더키즈학원",
-   "kind": "학원",
-   "realm": "입시.검정 및 보습",
-   "courses": [
-    "보습"
-   ],
-   "fields": [
-    "학습"
-   ],
-   "preschool": "전문",
-   "address": "강원특별자치도 원주시 지정면 신지정로 212 802호",
-   "dong": "지정면",
-   "tel": "033-734-0512",
-   "capacity": 210,
-   "fee": {
-    "public": true,
-    "items": []
-   },
-   "source": "교육청 학원교습소정보",
-   "consult": {
-    "hours": "",
-    "kakao": "",
-    "naverTalk": "",
-    "homepage": "",
-    "checked": ""
-   }
-  },
-  {
    "id": "n-3000013246",
    "name": "씨엘어학원",
    "kind": "학원",
@@ -1997,7 +1968,9 @@
    "name": "엠마영어교습소",
    "kind": "교습소",
    "realm": "국제화",
-   "courses": [],
+   "courses": [
+    "Sound1반"
+   ],
    "fields": [
     "학습",
     "영어"
@@ -2009,7 +1982,48 @@
    "capacity": 45,
    "fee": {
     "public": true,
-    "items": []
+    "items": [
+     {
+      "name": "Sound1반",
+      "won": 46000
+     },
+     {
+      "name": "Sound2반",
+      "won": 92000
+     },
+     {
+      "name": "Sound3반",
+      "won": 138000
+     },
+     {
+      "name": "Sound4반",
+      "won": 184000
+     },
+     {
+      "name": "Sound5반",
+      "won": 230000
+     },
+     {
+      "name": "Speaking&Reading1반",
+      "won": 50000
+     },
+     {
+      "name": "Speaking&Reading3반",
+      "won": 150000
+     },
+     {
+      "name": "Speaking&Reading2반",
+      "won": 100000
+     },
+     {
+      "name": "Speaking&Reading4반",
+      "won": 200000
+     },
+     {
+      "name": "Speaking&Reading5반",
+      "won": 250000
+     }
+    ]
    },
    "source": "교육청 학원교습소정보",
    "consult": {
@@ -9463,57 +9477,22 @@
    }
   },
   {
-   "id": "n-3000013611",
-   "name": "소리숲피아노음악교습소",
+   "id": "n-3000024391",
+   "name": "소리숲음악교습소",
    "kind": "교습소",
    "realm": "예능(대)",
-   "courses": [
-    "피아노A"
-   ],
+   "courses": [],
    "fields": [
     "음악"
    ],
    "preschool": "가능",
-   "address": "강원특별자치도 원주시 지정면 조엄로 397 214동 206호(원주기업도시 유보라 아이비파크 2단지)",
-   "dong": "지정면",
+   "address": "강원특별자치도 원주시 흥양로51번길 108 , 1동 1호(태장동)",
+   "dong": "태장동",
    "tel": "",
-   "capacity": 25,
+   "capacity": 0,
    "fee": {
     "public": true,
-    "items": [
-     {
-      "name": "피아노A",
-      "won": 80000
-     },
-     {
-      "name": "피아노B",
-      "won": 130000
-     },
-     {
-      "name": "피아노C",
-      "won": 130000
-     },
-     {
-      "name": "피아노D",
-      "won": 140000
-     },
-     {
-      "name": "피아노E",
-      "won": 150000
-     },
-     {
-      "name": "피아노F",
-      "won": 165000
-     },
-     {
-      "name": "피아노G",
-      "won": 200000
-     },
-     {
-      "name": "우쿠렐레",
-      "won": 120000
-     }
-    ]
+    "items": []
    },
    "source": "교육청 학원교습소정보",
    "consult": {
@@ -10964,6 +10943,33 @@
    }
   },
   {
+   "id": "n-3000024392",
+   "name": "아트콩스튜디오미술교습소",
+   "kind": "교습소",
+   "realm": "예능(대)",
+   "courses": [],
+   "fields": [
+    "미술"
+   ],
+   "preschool": "가능",
+   "address": "강원특별자치도 원주시 지정면 신지정로 255 , 231동 106호(이지더원 더 그레이스 아파트)",
+   "dong": "지정면",
+   "tel": "",
+   "capacity": 0,
+   "fee": {
+    "public": true,
+    "items": []
+   },
+   "source": "교육청 학원교습소정보",
+   "consult": {
+    "hours": "",
+    "kakao": "",
+    "naverTalk": "",
+    "homepage": "",
+    "checked": ""
+   }
+  },
+  {
    "id": "n-3000013474",
    "name": "아트팩토리미술교습소",
    "kind": "교습소",
@@ -11192,60 +11198,6 @@
     "items": []
    },
    "source": "행정안전부 체육도장업 인허가",
-   "consult": {
-    "hours": "",
-    "kakao": "",
-    "naverTalk": "",
-    "homepage": "",
-    "checked": ""
-   }
-  },
-  {
-   "id": "n-3000016342",
-   "name": "엄마나랑놀자미술교습소",
-   "kind": "교습소",
-   "realm": "예능(대)",
-   "courses": [
-    "미술B"
-   ],
-   "fields": [
-    "미술"
-   ],
-   "preschool": "가능",
-   "address": "강원특별자치도 원주시 구곡길 10-40 (단구동)",
-   "dong": "단구동",
-   "tel": "",
-   "capacity": 0,
-   "fee": {
-    "public": true,
-    "items": [
-     {
-      "name": "미술B",
-      "won": 100000
-     },
-     {
-      "name": "미술C",
-      "won": 100000
-     },
-     {
-      "name": "미술A",
-      "won": 67000
-     },
-     {
-      "name": "미술(특강)",
-      "won": 60000
-     },
-     {
-      "name": "미술(드로잉)",
-      "won": 68000
-     },
-     {
-      "name": "미술(일일수강)",
-      "won": 20000
-     }
-    ]
-   },
-   "source": "교육청 학원교습소정보",
    "consult": {
     "hours": "",
     "kakao": "",
